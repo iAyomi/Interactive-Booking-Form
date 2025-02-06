@@ -11,4 +11,4 @@ The project utilises React Hook Form, TailwindCSS, and TypeScript. I decided to 
 - If there are any issues with starting this project, please contact me @mailto:ayomitunde.isijola@gmail.com
 
 
-There are potential means to take this project further. I personally do not like the styling convention which I adopted but with the help of a Pro UX Designer, perhaps, we can do much more! APIs can also be integrated to actually submit the form and for dynamic pricing updates as well. But in the meantime, Cheers! Ciao
+There are potential means to take this project further. I personally do not like the styling convention which I adopted but with the help of a Pro UX Designer, perhaps, we can do much more! APIs can also be integrated to actually submit the form and for dynamic pricing updates as well. But in the meantime, Cheers! Ciao🤩
